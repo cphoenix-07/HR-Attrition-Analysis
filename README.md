@@ -1,7 +1,7 @@
 # HR Attrition Analysis
  Uncovering Attrition Trends: Role, Dept, Age, Education. Valuable insights for HR & management to address employee turnover effectively.
 
- ![Analysis](https://github.com/cphoenix-07/HR-Attrition-Analysis/assets/71826054/beee9cac-bc42-484c-8a9b-50acf01ad58d)
+![Analysis](https://github.com/cphoenix-07/HR-Attrition-Analysis/assets/71826054/0b30534a-dfa4-4aec-b4f5-e90e0c6b7480)
 
  Here are some insights that can be drawn from the provided data:
 
